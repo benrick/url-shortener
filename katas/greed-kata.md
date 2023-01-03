@@ -2,6 +2,7 @@
 redirect_from:
   - /Greed-Kata/
   - /Greed-kata/
+  - /greed/
   - /Greed/
   - /GREED/
   - /GreedKata/
