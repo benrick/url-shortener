@@ -9,8 +9,6 @@ redirect_from:
   - /LiftPass-Kata/
   - /Lift-Pass-Kata/
   - /liftpasskata/
-  - /liftpasskata-Kata/
-  - /liftpasskata-kata/
   - /Lift-Pass-Kata/
   - /Lift-Pass-kata/
   - /lift-pass/
@@ -18,6 +16,22 @@ redirect_from:
   - /LiftPass-kata/
   - /Liftpass/
   - /liftpass-Kata/
+  - /LiftPricingPass/
+  - /Lift-Pass-Pricing/
+  - /liftpasspricing/
+  - /Lift-Pass-Pricing/
+  - /lift-pass-pricing/
+  - /LiftPassPricingKata/
+  - /LiftPassPricing-Kata/
+  - /Lift-Pass-Pricing-Kata/
+  - /liftpasspricing-kata/
+  - /Lift-Pass-Pricing-Kata/
+  - /Lift-Pass-Pricing-kata/
+  - /lift-pass-pricing/
+  - /lift-pass-pricing-Kata/
+  - /LiftPassPricing-kata/
+  - /Liftpasspricing/
+  - /liftpasspricing-Kata/
 redirect_to: https://brendoneus.com/lift-pass-kata
 permalink: "/lift-pass-kata/"
 ---
